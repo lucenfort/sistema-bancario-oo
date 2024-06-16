@@ -33,7 +33,7 @@ O código está organizado em três classes principais:
 ### Como executar
 Clone o repositório e execute o arquivo principal:
 ```bash
-git clone https://github.com/seu-usuario/sistema-bancario-oo.git
+git clone https://github.com/lucenfort/sistema-bancario-oo.git
 cd sistema-bancario-oo
 python main.py
 
